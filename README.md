@@ -14,8 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Built With
 
-NextJS (Typescript)
-Tailwind CSS
-MongoDB
-TMDB API
-(Prisma and GraphQL?)
+- NextJS (Typescript)
+- Tailwind CSS
+- MongoDB
+- TMDB API
+- (Prisma and GraphQL?)
